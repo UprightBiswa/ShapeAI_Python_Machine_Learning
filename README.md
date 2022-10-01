@@ -15,7 +15,7 @@ Here's the link for you to watch the sessionsa as well
 anyone with zero experience on programming can learn .
 I enjoyed these 7 days , you can as well . To register for next free 7 days bootcamp , visit :
 <a herf=
-"https://www.shapeai.tech" > www.shapeai.tech</a> 
+" https://www.shapeai.tech">www.shapeai.tech</a> 
 or follow SHAPEAI on :
 
 <li><a href = 
