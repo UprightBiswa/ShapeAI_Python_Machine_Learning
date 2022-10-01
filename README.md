@@ -1,7 +1,7 @@
 # SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
 Hi I made this project during the 7 day free Bootcamp. condycted by <b> SHAPEAI</b>.
 The istructor during the session  was Mr. Shaurya Sinha (data Analyst Intern at Jio). Igot to
-learn a lot diuring these 7 days and it was an amazing experience learning with SHAPEAI.
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>
 Here's the link for you to watch the sessionsa as well 
 <br>
